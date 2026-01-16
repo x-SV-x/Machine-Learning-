@@ -1,3 +1,4 @@
 # Machine-Learning
-1. PCA-Principal Component Analysis
-2. 
+1. Standard PCA-Principal Component Analysis
+2. Kernel PCA
+   
